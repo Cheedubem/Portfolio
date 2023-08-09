@@ -11,9 +11,9 @@
 }
 
 .header__bars {
-  color: var(--clr-light);
-  width: var(--sizes-xs);
-  height: var(--sizes-xs);
+  color: var(--clr-orange);
+  width: var(--sizes-xl);
+  height: var(--sizes-xl);
 }
 
 /*xs */

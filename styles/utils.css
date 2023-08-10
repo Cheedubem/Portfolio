@@ -36,7 +36,7 @@
 }
 
 .btn:hover {
-  transform: translateY(-3px);
+  transform: translateY(-2px);
   box-shadow: 0 14px 28px rgba(234, 88, 12, 0.25),
     0 10px 10px rgba(234, 88, 12, 0.22), 0 0 120px -10px var(--clr-orange);
 }
@@ -45,8 +45,8 @@
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
+  padding-left: 0.6rem;
+  padding-right: 0.6rem;
   /* border: 1px solid red; */
 }
 .section {

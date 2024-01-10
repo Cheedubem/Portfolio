@@ -11,6 +11,7 @@
 }
 
 .header__bars {
+  display: block;
   color: var(--clr-orange);
   width: var(--sizes-xl);
   height: var(--sizes-xl);

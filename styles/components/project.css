@@ -48,6 +48,7 @@
 
 .work__project-btn {
   font-size: var(--size-sm);
+  margin: 1rem;
 }
 
 .work__project-subtitle {
@@ -162,7 +163,7 @@
 
   .work__project-description2 {
     font-size: var(--size-xs);
-    margin-bottom: 1em;
+    margin-bottom: 2em;
   }
 
   .work__project-btn {

@@ -46,12 +46,19 @@
 /* @media (min-width: 640px) {} */
 
 /* md */
-/* @media (min-width: 768px) {} */
+@media (min-width: 768px) {
+  .contact__title {
+    font-size: var(--size-4xl, 2.25rem);
+  }
+  .contact__description {
+    font-size: var(--size-lg);
+  }
+}
 
 /* lg */
 @media (min-width: 1024px) {
   .contact__title {
-    font-size: var(--size-4xl, 2.25rem);
+    /* font-size: var(--size-4xl, 2.25rem); */
   }
 
   .contact__description {
@@ -70,7 +77,7 @@
   }
 
   .contact__title {
-    font-size: var(--size-5xl);
+    /* font-size: var(--size-5xl, 3rem); */
   }
 
   .contact__description {

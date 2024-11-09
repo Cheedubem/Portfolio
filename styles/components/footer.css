@@ -1,3 +1,6 @@
+.footer {
+  margin: auto 0;
+}
 .footer__title {
   font-size: var(--size-xs);
   font-weight: 400;
@@ -6,4 +9,15 @@
   text-transform: uppercase;
   letter-spacing: 0.2em;
   user-select: none;
+}
+.social__links {
+  display: block;
+  margin: auto 0;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+.social__links a img {
+  width: 80%;
+  height: auto;
 }
